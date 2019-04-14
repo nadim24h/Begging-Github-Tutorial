@@ -7,7 +7,7 @@ int main()
 
     printf("My another branch/ I don't want change");
 
-    printf("pushed my 2nd merge file");
+    printf("pushed my 2nd merged file");
 
     return 0;
 }
