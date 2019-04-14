@@ -7,7 +7,7 @@ int main()
     printf("push my code on github succesfully");
     //printf("we are in the master branch");
 
-    printf("added a line in the branchB");
+    printf("added two line in the branchB");
 
 
     return 0;
