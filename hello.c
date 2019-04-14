@@ -6,9 +6,7 @@ int main()
     printf("Start my github learning");
 
     //printf("push my code on github succesfully");
-    printf("Added a line in branchA");
-    printf("Added a line in branchA");
-    printf("Added a line in branchA");
+    printf("Added one line in branchA");
 
     return 0;
 }
