@@ -9,7 +9,7 @@ int main()
 
     printf("pushed my 2nd merged file");
 
-    printf("added another line in my tutorial");
+    printf("added another line in my tutorial!");
 
     return 0;
 }
